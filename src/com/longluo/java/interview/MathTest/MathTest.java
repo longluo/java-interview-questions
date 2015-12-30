@@ -1,4 +1,4 @@
-package com.Math;
+package com.longluo.java.interview.MathTest;
 
 public class MathTest {
 	public static void main(String[] args) {
